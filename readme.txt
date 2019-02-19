@@ -21,6 +21,7 @@ git diff 09366ea f8b299f -> compara versiones
 git diff [version_1] vs [version_2]
 git reset --soft [sha_#] -> desde que commit quiero quitar los cambios pero lo mantiene en stage para ser envadi
 git reset --mixed [sha_#] -> quita los commit y no deja los archivos en el stage
+git reset --hard[sha_#] -> Elimina archivos quitando cambios y del sgate directory
 
 
 
